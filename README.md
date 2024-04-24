@@ -1,8 +1,4 @@
-![adh](https://github.com/AdrienHq/AdrienHq/assets/34314047/fdedd513-7e19-4a41-910a-c242500ca44f)
 
-<div style="text-align: center;">
-  <img src="https://github.com/AdrienHq/AdrienHq/assets/34314047/fdedd513-7e19-4a41-910a-c242500ca44f" alt="adh">
-</div>
 
 <p align="center">
   Hey ! I'm Adrien, a backend developer from Belgium 
