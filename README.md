@@ -9,6 +9,7 @@
 <p align="left">
     I mostly work with :     
     <img alt="Php" src="https://img.shields.io/badge/Php-blue">
+     && 
     <img alt="Symfony" src="https://img.shields.io/badge/Symfony-black">
 </p>
 
