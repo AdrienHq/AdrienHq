@@ -1,6 +1,3 @@
-![adh](https://github.com/AdrienHq/AdrienHq/assets/34314047/5d396158-6cc7-489d-a795-39afef5c3201)
-
-
 <h2 align="left">
   Hey ! I'm <strong>Adrien, a backend developer</strong> from Belgium 
 </h2>
