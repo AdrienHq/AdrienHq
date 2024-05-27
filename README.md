@@ -40,9 +40,3 @@
 </p>
 
 </br>
-
-<p align="center">
-  <a href="https://adrienhecq.com/cv%20Hecq%20Adrien.pdf" target="_blank">
-  <img alt="Resume" src="https://img.shields.io/badge/My%20Resume-8A2BE2">
-  </a>
-</p>
