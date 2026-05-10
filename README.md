@@ -1,42 +1,33 @@
-<h2 align="left">
-  Hey ! I'm <strong>Adrien, a backend developer</strong> from Belgium 
+<h2 align="center">
+  Adrien Hecq
 </h2>
-</br>
 
-<p align="left">
-    I mostly work with :     
-    <img alt="Php" src="https://img.shields.io/badge/Php-blue">
-     && 
-    <img alt="Symfony" src="https://img.shields.io/badge/Symfony-black">
-</p>
-
-<p align="left">
-    I also use :     
-    <img alt="Php" src="https://img.shields.io/badge/HTML-orange">
-    <img alt="Symfony" src="https://img.shields.io/badge/CSS-blue">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<p align="left">
-    And I'm learning :
-  
-  <p align="left">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-
-<p align="left">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<p align="center">
+  Fullstack developer at <strong>Lawcloud</strong>, based in Belgium.<br/>
+  Drawn to systems that are simple to reason about.
 </p>
 
 <p align="center">
-  Feel free to follow me on linkedin </br>
-  </br>
+  Currently building integrations — AI transcription, AI agents, Peppol e-invoicing — and keeping the codebase honest.
+</p>
+
+<p align="center">
+  <a href="https://adrienhecq.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/-adrienhecq.com-c8311f?style=for-the-badge">
+  </a>
   <a href="https://www.linkedin.com/in/adrienhecq/" target="_blank">
-  <img alt="Linkedin Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
-</br>
+<p align="center">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
