@@ -3,12 +3,12 @@
 </h2>
 
 <p align="center">
-  Fullstack developer at <strong>Lawcloud</strong>, based in Belgium.<br/>
+  Software engineer based in Belgium.<br/>
   Drawn to systems that are simple to reason about.
 </p>
 
 <p align="center">
-  Currently building integrations — AI transcription, AI agents, Peppol e-invoicing — and keeping the codebase honest.
+  Currently exploring where AI belongs in a disciplined development workflow.
 </p>
 
 <p align="center">
